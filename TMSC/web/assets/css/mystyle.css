@@ -1,0 +1,91 @@
+
+.my-nav-bg{
+
+    background-color:rgba(179, 0, 0,1) !important;
+
+    color: #ffffff !important;
+}
+.my-card-heading{
+    background-color:rgba(179, 0, 0,1) !important;
+
+    color: #ffffff !important;
+    
+}
+
+.my-card-bg{
+     background-color:	rgb(247, 238, 238) !important;
+     border-color: rgba(179, 0, 0,1) !important;
+    
+}
+
+.myDiv{
+	display:none;
+} 
+
+.card-btn{
+     background-color:rgba(179, 0, 0,1) !important;
+    color: #ffffff !important;
+}
+
+
+.my-button-style{
+    background-color:#F64C72 !important;
+    color: #d9d9d9 !important;
+
+}
+
+.my-nav-font{
+    outline: solid;
+    outline-color: #F64C72;
+
+}
+
+
+.para{
+
+
+    padding: 10px;
+    width: 600px;
+    height: 600px;
+    text-align: justify;
+    font-size: 20px;
+    font-family: Arial;
+
+
+}
+
+
+
+
+.card-box:hover{
+
+    opacity: 1.0;
+}
+
+.nav-heading{
+    
+    color: #ffffff !important;
+}
+
+
+
+
+.search-container{
+    float: left;
+    display: block;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+    padding: 20px;
+  }
+  
+ #sidebarMenu{
+      background-color: #f2f2f2 !important;
+      
+  }
+  
+  
+ .font-color{
+      color: #f2f2f2 !important;
+  }  
+  

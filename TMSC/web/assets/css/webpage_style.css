@@ -1,0 +1,102 @@
+/*nav bar color styles*/
+.my-nav-bg{
+    background-color:rgba(179, 0, 0,0.5) !important;
+
+    color: #fefefe !important;
+}
+
+.my-card-bg{
+    background-color: rgb(26 9 9 / 80%) !important;
+    color: #fefefe !important;
+}
+
+.card-btn{
+    background-color:rgba(179, 0, 0,1) !important;
+    color: #ffffff !important;
+}
+
+
+
+
+.card-header{
+    background-color :rgb(128, 0, 0) !important;
+    color: #fefefe !important;
+}
+.btn-button{
+    background-color :rgb(128, 0, 0) !important;
+    color: #fefefe !important;
+}
+
+.nav-link{
+    color: #fefefe !important;
+}
+
+.dropdown-item{
+    background-color: rgba(179, 0, 0,0.5) !important;
+    color: #fefefe !important;
+
+
+}
+
+li a:hover{
+
+    background-color: #E98074 !important;
+}
+
+
+body{
+
+
+    background-image: url('../images/center19.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+
+}
+
+
+.banner{
+    position: absolute;
+    height: 250px;
+    width: 450px;
+    background-color:rgba(0,0,0,0.5);
+    padding: 10px;
+    color: white;
+    top: -1px;
+    left: -1px;
+
+}
+
+.carouselExampleInterval{
+
+    position: absolute ;
+    width:100%;
+    left: 0px;
+
+}
+
+
+.image_slider{
+
+    position:responsive;
+
+    height: 600px;
+    width: 100%;
+    background-color: rgba(179, 0, 0,0.5);
+
+}
+
+
+
+ /*card carousel*/
+.carouselExampleControls{
+    padding:5%;
+}
+
+
+
+
+
+
+/*background: rgba(0,0,0,0.5) !important;*/
